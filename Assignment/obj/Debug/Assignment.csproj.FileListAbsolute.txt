@@ -1,0 +1,10 @@
+C:\Nihar\Work\Assignment_AVIVA\Assignment\bin\Debug\Assignment.dll
+C:\Nihar\Work\Assignment_AVIVA\Assignment\bin\Debug\Assignment.pdb
+C:\Nihar\Work\Assignment_AVIVA\Assignment\bin\Debug\HtmlAgilityPack.dll
+C:\Nihar\Work\Assignment_AVIVA\Assignment\bin\Debug\Newtonsoft.Json.dll
+C:\Nihar\Work\Assignment_AVIVA\Assignment\bin\Debug\HtmlAgilityPack.pdb
+C:\Nihar\Work\Assignment_AVIVA\Assignment\bin\Debug\HtmlAgilityPack.xml
+C:\Nihar\Work\Assignment_AVIVA\Assignment\bin\Debug\Newtonsoft.Json.xml
+C:\Nihar\Work\Assignment_AVIVA\Assignment\obj\Debug\Assignment.dll
+C:\Nihar\Work\Assignment_AVIVA\Assignment\obj\Debug\Assignment.pdb
+C:\Nihar\Work\Assignment_AVIVA\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
